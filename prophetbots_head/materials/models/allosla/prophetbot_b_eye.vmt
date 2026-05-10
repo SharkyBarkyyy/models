@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/allosla/prophetbot_b_eye"
-	"$surfaceprop" "Glass"
-	"$translucent" 1
-	"$model" 1
-}
