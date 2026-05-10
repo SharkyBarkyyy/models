@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/allosla/prophetbot_a_eye"
+	"$surfaceprop" "Computer"
+	"$translucent" 1
+	"$model" 1
+}

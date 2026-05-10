@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/allosla/prophetbot_b"
+	"$surfaceprop" "Computer"
+}
